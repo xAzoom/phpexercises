@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "" : "src/"
+    }
+  },
+  "require": {
+    "moneyphp/money": "^3.1",
+    "ramsey/uuid": "^3.7"
+  }
+}
