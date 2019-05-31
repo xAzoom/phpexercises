@@ -1,0 +1,12 @@
+{
+  "autoload" : {
+    "psr-4" : {
+      "" : "src/"
+    }
+  },
+  "require": {
+    "prooph/service-bus": "^6.2",
+    "ramsey/uuid": "^3.7",
+    "knplabs/gaufrette": "^0.6.0"
+  }
+}
